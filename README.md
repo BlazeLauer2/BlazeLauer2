@@ -1,7 +1,7 @@
 ## Hi 👋 My name is Blaze Lauer
 
-- 🔭 I’m currently working on: College sports prediction model
-- 💬 Ask me about: Detroit sports
+- 🔭 I’m currently working on: Hytale Mods
+- 💬 Ask me about: Sports
 - 📫 How to reach me: blazelauer@gmail.com
-- ⚡ Fun fact: My favorite teams are the Lions, Red Wings, Tigers, Pistons, U of M
+- ⚡ Fun fact: My favorite team is the Detroit Lions
 
